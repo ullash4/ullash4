@@ -26,7 +26,7 @@
 ### :man_student: About Me :
   I am learning ReactJs :muscle: from BD.
   
-  - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+  - :telescope: Now I'm learning ReactJs.
 
   - :seedling: Exploring Technical Content Writing.
 
