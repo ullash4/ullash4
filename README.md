@@ -13,9 +13,14 @@
     <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
+
+<div id="header" align="center">
+<img src="https://komarev.com/ghpvc/?username=ullash4&style=for-the-badge&color=blueviolet" alt=""/>
+</div>
+
 <h1 align="center">
   Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/>
 </h1>
 <div align="center">
   <img src="https://media.giphy.com/media/5k1Wu87CzkDfrx0Xwj/giphy.gif" width="600" height="300"/>
@@ -24,9 +29,9 @@
 ---
 
 ### :man_student: About Me :
-  I am learning ReactJs :muscle: from BD.
+  I am learning MERN Stack :muscle:
   
-  - :telescope: Now I'm learning ReactJs.
+  - :telescope: Now I'm learning MERN Stack.
 
   - :seedling: Exploring Technical Content Writing.
 
